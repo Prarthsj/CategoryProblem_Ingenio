@@ -1,0 +1,7 @@
+c:\users\prart\source\repos\Ingenio_CategoryProblem\Ingenio_CategoryProblem\obj\Debug\Ingenio_CategoryProblem.csprojResolveAssemblyReference.cache
+c:\users\prart\source\repos\Ingenio_CategoryProblem\Ingenio_CategoryProblem\obj\Debug\Ingenio_CategoryProblem.csproj.CoreCompileInputs.cache
+C:\Users\prart\source\repos\Ingenio_CategoryProblem\Ingenio_CategoryProblem\bin\Debug\Ingenio_CategoryProblem.exe.config
+C:\Users\prart\source\repos\Ingenio_CategoryProblem\Ingenio_CategoryProblem\bin\Debug\Ingenio_CategoryProblem.exe
+C:\Users\prart\source\repos\Ingenio_CategoryProblem\Ingenio_CategoryProblem\bin\Debug\Ingenio_CategoryProblem.pdb
+C:\Users\prart\source\repos\Ingenio_CategoryProblem\Ingenio_CategoryProblem\obj\Debug\Ingenio_CategoryProblem.exe
+C:\Users\prart\source\repos\Ingenio_CategoryProblem\Ingenio_CategoryProblem\obj\Debug\Ingenio_CategoryProblem.pdb
